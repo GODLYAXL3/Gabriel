@@ -93,7 +93,7 @@ if answer.lower().strip() == "yes":
         if answer.lower().strip() == "no":
             print("You continue forward on the trail")
             
-            print("The indian from before brings his tribe and ransack your cart GAME OVER")
+        print("The indian from before brings his tribe and ransack your cart GAME OVER")
       
                           
 else:
